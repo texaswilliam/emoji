@@ -19,6 +19,9 @@
 ### :oof:
 ![:oof:](/oof.png)
 
+### :this:
+![:this:](/this.png)
+
 ### :truf:
 ![:truf:](/truf.png)
 
@@ -30,6 +33,9 @@
 
 ### :yeet:
 ![:yeet:](/yeet.gif)
+
+### :yoink:
+![:yoink:](/yoink.png)
 
 ### :yup:
 ![:yup:](/yup.png)
